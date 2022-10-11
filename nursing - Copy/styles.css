@@ -1,0 +1,154 @@
+@charset "utf-8";
+.container-fluid {
+    color: #000000;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: large;
+    font-style: oblique;
+    background-image: -webkit-linear-gradient(270deg,rgba(5,5,74,1.00) 19.90%,rgba(46,42,4,1.00) 50.36%,rgba(74,27,0,1.00) 75.23%,rgba(65,30,9,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(5,5,74,1.00) 19.90%,rgba(46,42,4,1.00) 50.36%,rgba(74,27,0,1.00) 75.23%,rgba(65,30,9,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(5,5,74,1.00) 19.90%,rgba(46,42,4,1.00) 50.36%,rgba(74,27,0,1.00) 75.23%,rgba(65,30,9,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(5,5,74,1.00) 19.90%,rgba(46,42,4,1.00) 50.36%,rgba(74,27,0,1.00) 75.23%,rgba(65,30,9,1.00) 100%);
+}
+
+
+
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #E40000;
+    background-image: -webkit-linear-gradient(270deg,rgba(2,1,39,1.00) 0%,rgba(140,140,140,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(2,1,39,1.00) 0%,rgba(140,140,140,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(2,1,39,1.00) 0%,rgba(140,140,140,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(2,1,39,1.00) 0%,rgba(140,140,140,1.00) 100%);
+}
+#accordion1 .card #collapseOne1 {
+    color: #000000;
+}
+#accordion1 .card #collapseTwo1 {
+    color: #000000;
+}
+#accordion1 .card #collapseThree1 {
+    color: #040404;
+}
+#headingOne1 .mb-0 a {
+    color: #FE0004;
+}
+
+
+
+
+
+.container .navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 {
+    color: #FCFCFC;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: #D8E42D;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: oblique;
+    font-size: xx-large;
+}
+#headingOne1 .mb-0 a {
+    color: #007BFF;
+}
+
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #EBEBEB;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFFFFF;
+}
+
+
+
+
+
+.container footer .row {
+    color: #FFFFFF;
+}
+
+.container-fluid .container .text-center.text-uppercase {
+    color: #FFFFFF;
+    text-decoration: overline;
+    letter-spacing: 12px;
+    word-spacing: 3px;
+    font-size: 58px;
+}
+.container .text-center em {
+    color: #FFFFFF;
+    font-size: 24px;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #0C081A;
+}
+footer .row .offset-lg-6.col-lg-4 {
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler {
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler {
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler .navbar-toggler-icon {
+    color: #330000;
+}
+.carousel-item.active .carousel-caption h5 {
+    color: #02030A;
+}
+.carousel-item.active .carousel-caption .col-lg-4.offset-lg-4 {
+    background-color: #ECECEC;
+    color: #000000;
+}
+.carousel-inner .carousel-item .carousel-caption {
+    color: #000000;
+}
+.text-center em u {
+}
+
+.container .text-center.text-uppercase strong {
+}
+
+
+
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: #EDEDED;
+}
+.container-fluid .container .text-center.text-uppercase {
+}
+.container-fluid .container .text-center.text-uppercase {
+}
+.container .text-center.text-uppercase strong {
+}
+.container-fluid .container .text-center {
+}
+.container-fluid .container .card-body {
+    color: #000000;
+}
+#accordion1 .card #collapseOne1 {
+    color: #000000;
+}
+#collapseOne1 .card-body .text-justify {
+    color: #000000;
+}
+.card #collapseTwo1 .card-body {
+    color: #000000;
+}
+.card #collapseThree1 .card-body {
+    color: #000000;
+}
+
+
+
+
+.container-fluid .container .card-body {
+    color: #FFFFFF;
+}
+
+.container-fluid .container .text-center {
+    color: #FFFFFF;
+}
+.card.col-md-4.col-lg-12 .card-body .card-text.text-justify {
+    color: #000000;
+}
+.container #accordion1 .card {
+}
+.text-center em u {
+}
+.card-body .card-title.text-center strong {
+    color: #000000;
+}
